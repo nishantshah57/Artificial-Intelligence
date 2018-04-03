@@ -1,4 +1,4 @@
-This Repository contains solutions of mini projects of the course Artificial Intelligence.
+This Repository contains solutions of mini projects of the course CS 534 Artificial Intelligence.
 Project 1 contains Genetic Algorithm and Hill Climbing Algorithm to determine the optimum locations of industrial, residential and commercial locations in a city and A* and hill climbing algorithm to solve N-Queens puzzle.
 Project 2 contains Gibbs sampling algorithm to compute conditional probabilities for a Bayesian Network, Kalman filter to keep track of a country's GDP.
 Project 3 contains Expectation Maximization algorithm with random restarts that takes in N-dimensional data and finds the best number of clusters using Bayesian Information Criterion (Unsupervised Learning).
